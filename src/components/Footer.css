@@ -1,0 +1,33 @@
+#root{
+    margin: 0%;
+    padding: 0%;
+ 
+}
+
+.dxv{
+    padding-top: 25px;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.R{
+    display: flex;
+   
+   padding-right: 10px;
+}
+
+
+li{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+}
+
+.reds{
+    display: flex;
+    gap: 10px;
+}

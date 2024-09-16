@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Fascinate+Inline&display=swap');
+#root{
+    width: 100%;
+    height: auto;
+    font-family: "Fascinate Inline", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 30px;
+}
+
+.ulnksp{
+    display: flex;
+    text-decoration: none;
+    transition: color 0.5s ;
+}
+
+.ulnksp :hover{
+    color: aqua;  
+    
+    cursor: pointer;
+
+}   
